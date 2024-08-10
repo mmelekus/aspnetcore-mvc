@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Movies",
+            "database": "${workspaceFolder:MvcApp}/MvcMovie/MvcMovieContext-cf4e6e00-c542-460f-a6d2-c3134d769fb1.db"
+        }
+    ]
+}
